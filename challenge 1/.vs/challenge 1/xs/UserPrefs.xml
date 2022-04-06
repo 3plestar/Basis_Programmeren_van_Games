@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{4C33C996-B509-DCA1-27A4-74F9C31FF0C1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/rotatePropellor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 1/Scripts/PlayerControllerX.cs">
     <Files>
-      <File FileName="Assets/Challenge 1/Scripts/PlayerControllerX.cs" Line="29" Column="2" />
-      <File FileName="Assets/Challenge 1/Scripts/FollowPlayerX.cs" Line="13" Column="9" />
-      <File FileName="Assets/rotatePropellor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Challenge 1/Scripts/PlayerControllerX.cs" Line="27" Column="89" />
+      <File FileName="Assets/Challenge 1/Scripts/FollowPlayerX.cs" Line="8" Column="44" />
+      <File FileName="Assets/rotatePropellor.cs" Line="19" Column="69" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,10 +11,11 @@
           <Node name="challenge 1" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Challenge 1" expanded="True">
-                <Node name="Scripts" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="PlayerControllerX.cs" selected="True" />
+                </Node>
               </Node>
               <Node name="Course Library" expanded="True" />
-              <Node name="rotatePropellor.cs" selected="True" />
             </Node>
           </Node>
         </State>
